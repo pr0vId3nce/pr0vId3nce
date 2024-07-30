@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dgrey424
-- 👀 I’m interested in ... Cybersecurity.
+- 👀 I’m interested in ... Offensive Cybersecurity.
 - 🌱 I’m currently learning ... Rust
 - 💞️ I’m looking to collaborate on ... Github/Discord.
 - 📫 How to reach me ... destingrey@proton.me
