@@ -2,7 +2,8 @@ whoami: pr0vidence
 
 objective: Ethical Hacker / Penetration Tester
 
-inProgress: CompTIA Security+, HackTheBox CPTS
+Certifications: CompTIA Security+
+inProgress: HackTheBox CPTS
 
 <!---
 dgrey424/dgrey424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
