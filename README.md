@@ -1,9 +1,6 @@
-whoami: pr0vidence
+whoami: pr0vid3nce
 
-objective: Ethical Hacker / Penetration Tester
-
-Certifications: CompTIA Security+
-inProgress: HackTheBox CPTS
+objective: to capture lightning and inject it into the rock so that it may think.
 
 <!---
 dgrey424/dgrey424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
